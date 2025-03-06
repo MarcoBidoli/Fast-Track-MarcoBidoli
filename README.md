@@ -1,5 +1,5 @@
 ## Summary of "Random Access Heterogeneous MIMO Networks"
-Nell’articolo analizzato, viene presentano un protocollo ad accesso casuale: 802.11n+.
+Nell’articolo analizzato, viene presentato un protocollo ad accesso casuale: 802.11n+.
 Basato sullo standard IEEE 802.11n, n+ sfrutta l’eterogeneità dei nodi che compongono la rete per permettere trasmissioni simultanee mantenendo l'accesso completamente distribuito. Nel documento vengono definite le strategie adottate per soddisfare le due principali esigenze: garantire l’accesso al mezzo trasmissivo in modo completamente distribuito e trasmettere un nuovo segnale evitando interferenze ai nodi già impegnati in una comunicazione.
 
 ## Contenuti
